@@ -2,22 +2,19 @@ html{
 	position: relative;
 	overflow-y: scroll;
 	scroll-behavior: smooth;
-	letter-spacing: 0.1rem;
-	max-width: 100%;
-	margin: 100 auto;
 }
 
 #alur{
 	min-height: 100vh;
-	background-color: red;
+	
 }
 #galeri{
 	min-height: 100vh;
-	background-color: green;
+	
 }
 #kontak{
 	min-height: 100vh;
-	background-color: blue;
+	
 }
 
 .jumbotron {
