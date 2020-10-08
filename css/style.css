@@ -32,9 +32,6 @@ hr{
 	border-top: 3px solid rgb(59 218 32);
 }
 
-section {
-	min-height: 550px;
-}
 
 .map-responsive{
     overflow:hidden;
