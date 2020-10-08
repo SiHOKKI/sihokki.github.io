@@ -3,6 +3,7 @@ html{
 	scroll-behavior: smooth;
 }
 
+
 .jumbotron {
 	background: rgb(10,45,4);
 	background: linear-gradient(90deg, rgba(10,45,4,1) 0%, rgba(26,119,14,1) 36%, rgba(255,248,0,1) 100%);
@@ -13,7 +14,8 @@ html{
 }
 
 .jumbotron p{
-	color: #000;
+	color: #fff;
+	font-weight: 700;
 }
 
 .jumbotron img {
