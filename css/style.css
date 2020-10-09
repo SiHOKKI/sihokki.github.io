@@ -66,7 +66,7 @@ hr{
         opacity: 1;
     }
 }
-img {
+.blink {
     -webkit-animation: blink 1s;
     -webkit-animation-iteration-count: infinite;
     -moz-animation: blink 1s;
