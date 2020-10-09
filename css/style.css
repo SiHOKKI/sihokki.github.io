@@ -33,10 +33,9 @@ hr{
 }
 
 #custom-nav {
-    -webkit-box-shadow: 20px 20px 20px #FC0;
-    -moz-box-shadow:    20px 20px 20px #FC0;
-    box-shadow:         20px 20px 20px #FC0;
-    z-index:999;
+-webkit-box-shadow: 3px 10px 11px -9px rgba(0,0,0,0.74);
+-moz-box-shadow: 3px 10px 11px -9px rgba(0,0,0,0.74);
+box-shadow: 3px 10px 11px -9px rgba(0,0,0,0.74);
 }
 
 .map-responsive{
