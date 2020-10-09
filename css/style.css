@@ -32,12 +32,6 @@ hr{
 	border-top: 3px solid rgb(59 218 32);
 }
 
-#custom-nav {
--webkit-box-shadow: 3px 10px 11px -9px rgba(0,0,0,0.74);
--moz-box-shadow: 3px 10px 11px -9px rgba(0,0,0,0.74);
-box-shadow: 3px 10px 11px -9px rgba(0,0,0,0.74);
-}
-
 .map-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
