@@ -32,7 +32,8 @@ hr{
 	border-top: 3px solid rgb(59 218 32);
 }
 
-section #galeri {
+
+.panel-success {
 
 background: linear-gradient(45deg, #f22613, #f89406, #26a65b, #5868ec, #f54e80, #f7ca18, #d2527f);
 background-size: 500% 500%;
