@@ -5,9 +5,9 @@ html{
 }
 
 .jumbotron {
-	background: rgb(10,45,4);
-	background: linear-gradient(90deg, rgba(10,45,4,1) 0%, rgba(26,119,14,1) 36%, rgba(255,248,0,1) 100%);
+	background: linear-gradient(90deg, rgb(24 88 13) 0%, rgb(39 171 22) 36%, rgba(255,248,0,1) 100%);
 }
+
 
 .jumbotron h1{
 	color: #fff;
