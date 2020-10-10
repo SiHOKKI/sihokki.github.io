@@ -91,7 +91,7 @@ hr{
 .map-responsive iframe{
     left:0;
     top:0;
-    height:100%;
+    min-height:500px;
     width:100%;
     position:absolute;
 }
