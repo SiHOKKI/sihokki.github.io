@@ -25,3 +25,19 @@
     width: 300px !important;
     height: auto !important;
 }
+
+.fa-download::before {
+    color: #fff !important;
+}
+
+.fa-calendar::before {
+    color: #fff !important;
+}
+
+.fa-tag::before {
+    color: #fff !important;
+}
+
+.fa-check-square-o::before {
+    color: #fff !important;
+}
