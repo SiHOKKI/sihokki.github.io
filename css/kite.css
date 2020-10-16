@@ -1,0 +1,25 @@
+*/
+/*!
+ * Redesign CSS by Ade Haryanto
+ * https://github.com/xidsoft
+/*!
+
+
+.media.service-box .pull-left > i {
+    color: #179f53 !important;
+}
+
+.media.service-box .pull-left > i::after {
+    background: #179f53 !important;
+}
+
+.media.service-box:hover .pull-left > i {
+    background-image: -moz-linear-gradient(90deg, #179f53 0%, #179f53 100%) !important;
+    background-image: -webkit-linear-gradient(90deg, #179f53 0%, #179f53 100%) !important;
+    background-image: -ms-linear-gradient(90deg, #179f53 0%, #179f53 100%) !important;
+}
+
+.img-rounded.blink {
+    width: 300px !important;
+    height: auto !important;
+}
