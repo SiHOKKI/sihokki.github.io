@@ -26,18 +26,18 @@
     height: auto !important;
 }
 
-.fa-download::before {
+.fa-download:hover {
     color: #fff !important;
 }
 
-.fa-calendar::before {
+.fa-calendar:hover {
     color: #fff !important;
 }
 
-.fa-tag::before {
+.fa-tag:hover {
     color: #fff !important;
 }
 
-.fa-check-square-o::before {
+.fa-check-square-o:hover {
     color: #fff !important;
 }
