@@ -16,28 +16,12 @@
 }
 
 .media.service-box:hover .pull-left > i {
-    background-image: -moz-linear-gradient(90deg, #179f53 0%, #179f53 100%) !important;
-    background-image: -webkit-linear-gradient(90deg, #179f53 0%, #179f53 100%) !important;
-    background-image: -ms-linear-gradient(90deg, #179f53 0%, #179f53 100%) !important;
+    background-image: -moz-linear-gradient(90deg, #04371a 0%, #04371a 100%) !important;
+    background-image: -webkit-linear-gradient(90deg, #04371a 0%, #04371a 100%) !important;
+    background-image: -ms-linear-gradient(90deg, #04371a 0%, #04371a 100%) !important;
 }
 
 .img-rounded.blink {
     width: 300px !important;
     height: auto !important;
-}
-
-.fa-download:hover {
-    color: #fff !important;
-}
-
-.fa-calendar:hover {
-    color: #fff !important;
-}
-
-.fa-tag:hover {
-    color: #fff !important;
-}
-
-.fa-check-square-o:hover {
-    color: #fff !important;
 }
