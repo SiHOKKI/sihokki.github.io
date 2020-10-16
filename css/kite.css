@@ -8,6 +8,8 @@
 
 .media.service-box .pull-left > i {
     color: #179f53 !important;
+    box-shadow: inset 0 0 0 1px #179f53 !important;
+    -webkit-box-shadow: inset 0 0 0 1px #179f53 !important;
 }
 
 .media.service-box .pull-left > i::after {
