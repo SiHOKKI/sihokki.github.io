@@ -27,6 +27,15 @@ body{
 
 }
 
+#particles-js{
+  position: absolute;
+  top:0px;
+  left:0;
+  width:100%;
+  background-position: center;
+  overflow: hidden;
+}
+
 .col-sm-4 img {
 	width: 400px;
 }
